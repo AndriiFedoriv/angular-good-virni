@@ -1,5 +1,5 @@
 import { Component } from '@angular/core';
-
+import { MatCardModule } from '@angular/material/card';
 import { products } from '../products';
 
 @Component({
